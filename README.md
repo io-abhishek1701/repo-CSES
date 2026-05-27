@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## Overview
@@ -24,8 +22,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## Contribution Heatmap
@@ -34,7 +30,6 @@
 
 </div>
 
----
 <div align="center">
 
 ## Problems
@@ -52,7 +47,6 @@
 | 6 | [Number Spiral](https://cses.fi/problemset/task/1071) | Introductory | [Code](Number_Spiral.cpp) |
 <!-- CSES_TABLE_END -->
 
----
 <div align="center">
   
 ## How to Run
@@ -71,7 +65,6 @@ g++ -std=c++17 -o output Weird_Algorithm.cpp
 ./output
 ```
 
----
 <div align="center">
   
 ## Connect
@@ -84,8 +77,6 @@ g++ -std=c++17 -o output Weird_Algorithm.cpp
 [![GitHub](https://img.shields.io/badge/GitHub-io--abhishek1701-222222?style=flat-square&logo=github&logoColor=white)](https://github.com/io-abhishek1701)
 
 </div>
-
----
 
 <div align="center">
   <sub>README auto-updates on every push via GitHub Actions</sub>

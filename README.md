@@ -23,9 +23,9 @@
 | **Total** | **6** |
 
 </div>
-<!-- AUTO_STATS_END -->
 
 ---
+
 <div align="center">
 
 ## Contribution Heatmap
@@ -54,7 +54,9 @@
 
 ---
 <div align="center">
+  
 ## How to Run
+
 </div>
 
 ```bash
@@ -71,7 +73,9 @@ g++ -std=c++17 -o output Weird_Algorithm.cpp
 
 ---
 <div align="center">
+  
 ## Connect
+
 </div>
 
 <div align="center">

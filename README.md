@@ -1,6 +1,6 @@
 <div align="center">
 
-# CSES Problem Set — Solutions
+# CSES Problem Set Solutions
 
 **C++ solutions to the CSES competitive programming problem set**
 
@@ -13,10 +13,9 @@
 
 ---
 
-## Overview
-
-<!-- AUTO_STATS_START -->
 <div align="center">
+
+## Overview
 
 | Category | Solved |
 |:---|:---:|
@@ -27,18 +26,20 @@
 <!-- AUTO_STATS_END -->
 
 ---
+<div align="center">
 
 ## Contribution Heatmap
-
-<div align="center">
 
 ![GitHub Contribution Heatmap](https://ghchart.rshah.org/io-abhishek1701)
 
 </div>
 
 ---
+<div align="center">
 
 ## Problems
+
+</div>
 
 <!-- CSES_TABLE_START -->
 | # | Problem | Category | Solution |
@@ -52,8 +53,9 @@
 <!-- CSES_TABLE_END -->
 
 ---
-
+<div align="center">
 ## How to Run
+</div>
 
 ```bash
 # Clone the repository
@@ -68,8 +70,9 @@ g++ -std=c++17 -o output Weird_Algorithm.cpp
 ```
 
 ---
-
+<div align="center">
 ## Connect
+</div>
 
 <div align="center">
 
